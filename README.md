@@ -24,7 +24,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  npm start
+  cd bndcamp
 ```
 
 Install dependencies
@@ -36,7 +36,7 @@ Install dependencies
 Start scraping
 
 ```bash
-  node index.js
+  npm start
 ```
 
 
